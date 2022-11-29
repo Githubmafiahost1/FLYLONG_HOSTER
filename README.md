@@ -1,5 +1,4 @@
 <p align="center">
-<a href="https://github.com/NOOBVIVEK"><img src="https://github-readme-stats.vercel.app/api/pin?username=NOOBVIVEK &show_icons=true&theme=dracula&hide_border=true&repo=FLYLONG HOSTER"></a>
 </p>
 
 <p align="center">
